@@ -1,0 +1,13 @@
+{
+  "name": "drexy",
+  "version": "1.0.0",
+  "description": "carteira digital",
+  "main": "index.js",
+  "repository": "https://github.com/ricardozv/drexy.git",
+  "author": "ricardozv <ricardosilvanet03@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
