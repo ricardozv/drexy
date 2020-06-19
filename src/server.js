@@ -1,3 +1,5 @@
+// Criação do servidor em nodeJS 
+// create the server on nodejs
 const express = require('express');
 
 const app = express();
